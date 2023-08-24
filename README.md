@@ -1,6 +1,7 @@
 # Data_Analysis_AirbnbBerlin
 A study done using Python and Tableau to analyze data from insideairbnb.com
-Objectives 
+
+## Objectives 
 
 The objectives of this study are: 
 
@@ -10,7 +11,7 @@ The objectives of this study are:
 
 3. Observe price changes in local rental costs vs. Airbnb
 
-Background 
+## Background 
 
 Berlin has had an adversarial relationship with Airbnb, enacting a law in 2016 which barred almost all landlords from renting their apartments to short-term visitors. Although overturned in 2018, Berlin remained highly restrictive on allowing landlords to rent out properties that are not their primary residence and has required hosts to use a registration number. 
 
@@ -20,7 +21,7 @@ In October 2022, Airbnb announced that that starting in March 2023 they would re
 
 The data used for this study was taken from insideairbnb.com, a website which scrapes information from Airbnb listings once per quarter with some limitations. The period studied is September 2022–June 2023. 
 
-Sources:
+### Sources:
 
 https://www.bloomberg.com/news/articles/2018-03-23/berlin-s-airbnb-ban-is-over-but-the-new-rules-are-serious
 
@@ -32,7 +33,7 @@ http://insideairbnb.com/get-the-data/
 
 http://insideairbnb.com/data-assumptions/
 
-Data
+## Data
 
 A link to the original data can be found here: https://drive.google.com/file/d/1V_i4hMYLDq0Tg6VgqxDRRgVMpOywrV1d/view?usp=drive_link
 
